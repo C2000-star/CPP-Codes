@@ -1,0 +1,5 @@
+Shift+Alt+A -> Multiline comment
+Ctrl+Shift+P + Type "Convert indentation from tab or 4 spaces into 2 spaces" -> Change indentation
+Alt+Click  -> Multiple Cursors
+Shift+Alt+Down or Shift+Alt+Up -> Add multiple lines 
+Ctrl+K+U -> Uncomment a code
